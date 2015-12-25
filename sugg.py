@@ -1,5 +1,5 @@
 # What this module basically does is it takes in a word which is not in the dictionary and finds suitable suggestions for it.
-#Made by - Pratik Shastri.
+# Made by - Pratik Shastri.
 
 class wrongWord: # Class of wrong word.
     def __init__(self, wWord, fname):# Initializes the various variables used in the class.
