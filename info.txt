@@ -1,2 +1,0 @@
-What this software does is it takes in a sentence, indicates which words wrongly spelt, and gives suggestions of correct words to the wrong ones.
-To execute the software, run the gui.py file.
